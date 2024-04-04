@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\poojadatabase\poojadatabase\bin\Debug\poojadatabase.exe.config
+C:\Users\asus\source\repos\poojadatabase\poojadatabase\bin\Debug\poojadatabase.exe
+C:\Users\asus\source\repos\poojadatabase\poojadatabase\bin\Debug\poojadatabase.pdb
+C:\Users\asus\source\repos\poojadatabase\poojadatabase\obj\Debug\poojadatabase.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\poojadatabase\poojadatabase\obj\Debug\poojadatabase.Form1.resources
+C:\Users\asus\source\repos\poojadatabase\poojadatabase\obj\Debug\poojadatabase.Properties.Resources.resources
+C:\Users\asus\source\repos\poojadatabase\poojadatabase\obj\Debug\poojadatabase.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\poojadatabase\poojadatabase\obj\Debug\poojadatabase.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\poojadatabase\poojadatabase\obj\Debug\poojadatabase.exe
+C:\Users\asus\source\repos\poojadatabase\poojadatabase\obj\Debug\poojadatabase.pdb
